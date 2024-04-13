@@ -1,0 +1,17 @@
+{
+    "name": "submission-form-backend",
+    "version": "1.0.0",
+    "description": "Backend for submission form hosted on GitHub Pages",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "author": "DEED_ADMIN",
+    "license": "MIT",
+    "dependencies": {
+      "body-parser": "^1.19.0",
+      "express": "^4.17.1",
+      "google-spreadsheet": "^3.0.8"
+    }
+  }
+  
